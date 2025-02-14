@@ -68,7 +68,7 @@
     background-size: cover;
   }
   .carousel .one {
-    background-image: url(/Images/Img1.jpg);
+    background-image: url(https://raw.githubusercontent.com/EdinsonPeralesBackup/HappyValentineDay/refs/heads/main/Images/Img1.jpg);
   }
   .carousel .two {
     background-image: url(/Images/Img2.jpg);
