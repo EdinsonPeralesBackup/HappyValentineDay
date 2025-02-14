@@ -71,16 +71,16 @@
     background-image: url(https://raw.githubusercontent.com/EdinsonPeralesBackup/HappyValentineDay/refs/heads/main/Images/Img1.jpg);
   }
   .carousel .two {
-    background-image: url(/Images/Img2.jpg);
+    background-image: url(https://raw.githubusercontent.com/EdinsonPeralesBackup/HappyValentineDay/refs/heads/main/Images/Img2.jpg);
   }
   .carousel .three {
-    background-image: url(/Images/Img3.jpg);
+    background-image: url(https://raw.githubusercontent.com/EdinsonPeralesBackup/HappyValentineDay/refs/heads/main/Images/Img3.jpg);
   }
   .carousel .four {
-    background-image: url(/Images/Img4.jpg);
+    background-image: url(https://raw.githubusercontent.com/EdinsonPeralesBackup/HappyValentineDay/refs/heads/main/Images/Img4.jpg);
   }
   .carousel .five {
-    background-image: url(/Images/Img5.jpg);
+    background-image: url(https://raw.githubusercontent.com/EdinsonPeralesBackup/HappyValentineDay/refs/heads/main/Images/Img5.jpg);
   }
   #slide-btn-1:checked ~ .one,
   #slide-btn-2:checked ~ .two,
